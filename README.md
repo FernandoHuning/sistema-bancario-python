@@ -1,1 +1,1 @@
-# sistema-banc-rio-python
+# sistema-bancario-python
